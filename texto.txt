@@ -2,6 +2,6 @@ esto es una nueva version de esta prototipo de txt y de git
 esto es una practica de rama
 
 
-esto es una practica de git
+esto es una practica de git si pero esto es genial
 
 
